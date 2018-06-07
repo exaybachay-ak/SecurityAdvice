@@ -16,7 +16,7 @@ If you want to get a head start on red team, I'd recommend checking out the [**G
 * [Python Challenge](http://www.pythonchallenge.com/)
 
 # Getting Hired
-My advice here is to get both certifications **and** practical experience as soon as possible, because it will prepare you for first passing the initial resume screening/keyword search, and also make sure you are ready for some practical questions during your interview.  The above advice should set you on a path to get practical skills and experience, while the below certs chart a rough order of which certs you may want in order to obtain employment in the IT Security field.
+My advice here is to get both certifications **and** practical experience as soon as possible, because it will prepare you for first passing the initial resume screening/keyword search, and also make sure you are ready for some practical questions during your interview.  The above advice should set you on a path to get practical skills and experience, while the below list charts a rough order of which certs you may want in order to obtain employment in the IT Security field.
 
 * S+
 * CSA+
