@@ -15,5 +15,16 @@ If you want to get a head start on red team, I'd recommend checking out the [**G
 * [Over the Wire](http://overthewire.org/wargames/)
 * [Python Challenge](http://www.pythonchallenge.com/)
 
+# Getting Hired
+My advice here is to get both certifications **and** practical experience as soon as possible, because it will prepare you for first passing the initial resume screening/keyword search, and also make sure you are ready for some practical questions during your interview.  The above advice should set you on a path to get practical skills and experience, while the below certs chart a rough order of which certs you may want in order to obtain employment in the IT Security field.
+
+* S+
+* CSA+
+* GISF
+* GSEC
+* CISSP
+* CISA
+* OSCP
+
 # Overcoming obstacles
 This last part is **crucial**:  if you encounter barriers, or hit a wall with challenges, go onto **IRC** or **reddit** and ask the professionals.  The infosec community is a very strong one, with one important caveat.  DO NOT ASK TO BE HAND-FED.  You must go in and ask questions so you don't get stuck and lost motivation, but do not go and say "hey everyone, I want to hack my wifi so where do I begin", or "I can't get this loop to work, can you tell me what's wrong with it?"  You should demonstrate that you have done basic Google searches first, and put in some effort before you start to ask for help, otherwise people will most likely be hesitant to spend their (most likely valuable) time doing your work for you.
