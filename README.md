@@ -20,11 +20,15 @@ My advice here is to get both certifications **and** practical experience as soo
 
 * S+
 * CSA+
+* L+
+* RHCSA
 * GISF
 * GSEC
 * CISSP
 * CISA
 * OSCP
+
+You can get great training for these certs online, at places like [NICCS](https://niccs.us-cert.gov/training/search), [Tom's IT Pro](http://www.tomsitpro.com/tags/security+certification/), and [Cybrary](https://www.cybrary.it/).
 
 While certs and experience are very valuable, and can go a long ways towards landing you a job, the third thing that will give you the best chances at obtaining a desirable and well-paying job in the industry is **networking**.  No, I don't mean you should grab a firewall and some switches and start segmenting away (although that's never a bad idea).. I mean that you need to start talking with people in the IT Security industry.  
 
