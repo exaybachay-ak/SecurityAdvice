@@ -16,6 +16,7 @@ If you want to get a head start on red team, I'd recommend checking out the [**G
 * [Python Challenge](http://www.pythonchallenge.com/)
 
 # Getting Hired
+## Certifications
 My advice here is to get both certifications **and** practical experience as soon as possible, because it will prepare you for first passing the initial resume screening/keyword search, and also make sure you are ready for some practical questions during your interview.  The above advice should set you on a path to get practical skills and experience, while the below list charts a rough order of which certs you may want in order to obtain employment in the IT Security field.
 
 * S+
@@ -30,10 +31,12 @@ My advice here is to get both certifications **and** practical experience as soo
 
 You can get great training for these certs online, at places like [NICCS](https://niccs.us-cert.gov/training/search), [Tom's IT Pro](http://www.tomsitpro.com/tags/security+certification/), and [Cybrary](https://www.cybrary.it/).
 
+## Social Networking
 While certs and experience are very valuable, and can go a long ways towards landing you a job, the third thing that will give you the best chances at obtaining a desirable and well-paying job in the industry is **networking**.  No, I don't mean you should grab a firewall and some switches and start segmenting away (although that's never a bad idea).. I mean that you need to start talking with people in the IT Security industry.  
 
 Go out and join your local hackerspace/makerspace, and see what people there are excited about.  Get on IRC and meet people that are working on Metasploit, PowerShell Empire, Security Onion, Root-Me, and other security projects.  Join some local/regional Cyber Security User Groups, and attend conferences like DEFCON, DerbyCon, and Wild West Hackin' Fest.  I can speak from experience, that all of the skills in the world can't beat good real-world connections.
 
+## Interview Skills
 Finally, once you get a job interview lined up you have to do a great job making a good first impression.  My advice has always been that, even if you lack specific skills or knowledge, you should be prepared to be so confident and personable, that the interviewer(s) don't notice or don't care.  In my opinion, there is no excuse for having a bad interview, you just have to treat it like another skill that you are out to master.  Here are [**some tips**](https://www.indeed.com/career-advice/interviewing/job-interview-tips-how-to-make-a-great-impression) about preparing for, and making a great impression during your interview.
 
 # Overcoming obstacles
