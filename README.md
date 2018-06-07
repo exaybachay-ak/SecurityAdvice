@@ -26,5 +26,9 @@ My advice here is to get both certifications **and** practical experience as soo
 * CISA
 * OSCP
 
+While certs and experience are very valuable, and can go a long ways towards landing you a job, the third thing that will give you the best chances at obtaining a desirable and well-paying job in the industry is **networking**.  No, I don't mean you should grab a firewall and some switches and start segmenting away (although that's never a bad idea).. I mean that you need to start talking with people in the IT Security industry.  
+
+Go out and join your local hackerspace/makerspace, and see what people there are excited about.  Get on IRC and meet people that are working on Metasploit, PowerShell Empire, Security Onion, Root-Me, and other security projects.  Join some local/regional Cyber Security User Groups, and attend conferences like DEFCON, DerbyCon, and Wild West Hackin' Fest.  I can speak from experience, that all of the skills in the world can't beat good real-world connections.
+
 # Overcoming obstacles
 This last part is **crucial**:  if you encounter barriers, or hit a wall with challenges, go onto **IRC** or **reddit** and ask the professionals.  The infosec community is a very strong one, with one important caveat.  DO NOT ASK TO BE HAND-FED.  You must go in and ask questions so you don't get stuck and lost motivation, but do not go and say "hey everyone, I want to hack my wifi so where do I begin", or "I can't get this loop to work, can you tell me what's wrong with it?"  You should demonstrate that you have done basic Google searches first, and put in some effort before you start to ask for help, otherwise people will most likely be hesitant to spend their (most likely valuable) time doing your work for you.
