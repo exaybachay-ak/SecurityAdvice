@@ -23,17 +23,17 @@ With that out of the way - if you want to get a head start on red team, I'd reco
 ## Certifications
 My advice here is to get both certifications **and** practical experience as soon as possible, because it will prepare you for first passing the initial resume screening/keyword search, and also make sure you are ready for some practical questions during your interview.  The above advice should set you on a path to get practical skills and experience, while the below list charts a rough order of which certs you may want in order to obtain employment in the IT Security field.
 
-* S+
-* CSA+
-* L+
-* RHCSA
-* GISF
-* GSEC
-* GMON
-* GCIA
-* CISSP
-* CISA
-* OSCP
+* [S+](https://certification.comptia.org/certifications/security)
+* [CSA+](https://certification.comptia.org/certifications/cybersecurity-analyst)
+* [L+](https://certification.comptia.org/certifications/linux)
+* [RHCSA](https://www.redhat.com/en/services/certification/rhcsa)
+* [GISF](https://www.giac.org/certification/information-security-fundamentals-gisf)
+* [GSEC](https://www.giac.org/certification/security-essentials-gsec)
+* [GMON](https://www.giac.org/certification/continuous-monitoring-certification-gmon)
+* [GCIA](https://www.giac.org/certification/certified-intrusion-analyst-gcia)
+* [CISSP](https://www.isc2.org/Certifications/CISSP)
+* [CISA](http://www.isaca.org/Certification/CISA-Certified-Information-Systems-Auditor/How-to-Become-Certified/Pages/default.aspx)
+* [OSCP](https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/)
 
 You can get great training for these certs online, at places like [NICCS](https://niccs.us-cert.gov/training/search), [Tom's IT Pro](http://www.tomsitpro.com/tags/security+certification/), and [Cybrary](https://www.cybrary.it/).
 
